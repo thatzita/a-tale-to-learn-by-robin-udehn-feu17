@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Our hero, h4ck3rM4N_dragonslayer_1337 is well known for being the most hardcore gamer in the land of Internet. Doesn't matter if it's FPS, MMORPG, strategy, MOBA, you name the genre and he will dominate it.
 
 
 jdsifjidsjf
+=======
+Our hero, h4ck3rM4N_dragonslayer_1337 is well known for being the most hardcore gamer in the land of Internet. 
+Doesn't matter if it's FPS, MMORPG, strategy, MOBA, you name the genre and he will dominate it.
+However though, he has one big weakness: Cute_cat.jpg
+>>>>>>> f5b3f29c61020a3d0c6064ca9d740218773cd115
